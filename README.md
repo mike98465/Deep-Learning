@@ -1,2 +1,2 @@
 # Deep-Learning-Lab-Homework
-In NTHU 
+In NTHU, including basic Machine Learning, Deep Learning and Neural Network jupyter notebooks.
